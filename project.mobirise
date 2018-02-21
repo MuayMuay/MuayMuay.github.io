@@ -1,0 +1,3248 @@
+{
+  "settings": {
+    "name": "511-28",
+    "currentPage": "page2.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/one-piece-logo-18-128x128.png",
+    "noImageResize": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 65,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "22px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/one-piece-wallpaper-2000x1125.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<br><br><br><br><br><br>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "18px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/22751-one-piece-luffy-one-piece-2000x1124.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "ONE PIECE",
+          "text": "<span style=\"font-style: normal;\">วันพีช (ญี่ปุ่น: ワンピース Wan Piesu ในชื่ออังกฤษ One Piece ?) เป็นการ์ตูนญี่ปุ่น</span><br><span style=\"font-style: normal;\">เขียนโดย เออิชิโร โอะดะ เรื่องราวของการตามหา \"วันพีซ\" โดยผู้ที่ได้มาครอบครอง</span><br><span style=\"font-style: normal;\">จะได้เป็นจ้าวแห่งโจรสลัด เริ่มลงตีพิมพ์ในนิตยสาร โชเน็นจัมป์ ของสำนักพิมพ์ชูเอฉะ</span><br><span style=\"font-style: normal;\">ตั้งแต่ปี พ.ศ. 2540 และเนื่องจากความโด่งดัง วันพีซ จึงได้รับการดัดแปลงเป็นอะนิเมะ</span><br><span style=\"font-style: normal;\">นวนิยาย รวมไปถึงเกมอีกหลายภาคด้วยกัน<br>ในประเทศไทย วันพีซได้ลิขสิทธิ์โดยสำนักพิมพ์สยามอินเตอร์คอมิกส์ตีพิมพ์ลงใน</span><br><span style=\"font-style: normal;\">นิตยสารการ์ตูน ซี-คิดส์ รายสัปดาห์ ปัจจุบันออกอากาศทางสถานีโทรทัศน์เอ็มคอตเอชดี</span><br><span style=\"font-style: normal;\">และผ่านดาวเทียม ช่องการ์ตูนคลับแชนแนล นอกจากนั้นยังเคยออกอากาศทางฟรีทีวี ช่อง</span><br><span style=\"font-style: normal;\">ไอทีวี, ทีไอทีวี, |โมเดิร์นไนน์ทีวี และช่อง 3 มาก่อนพรพิมน</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7c706b"
+            }
+          },
+          "_anchor": "features1-d",
+          "_params": {
+            "columnsColor": "#7c706b",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece264-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "ลูฟี่",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "มังกี้ ดี ลูฟี่ (Monkey D. Luffy)<br>ค่าหัว 300,000,000 เบรี<br>กัปตันกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ผล โกมุ โกมุ สายพาราเซีย ผลยาง มีความสามารถในการใช้ร่างกายที่เป็นยางในการเป่าลมเข้าไปจนเหมือนเป็นลูกโป่งเพื่อช่วยในการรับและโจมตีศัตรูด้วยร่างกายขนาดยักษ์<br>ฉายา หมวกฟาง ลูฟี่<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece263-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "โซโล",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "โรโรโนอา โซโล (Roronoa zoro)<br>ค่าหัว 120,000,000 เบรี<br>ต้นเรือประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ไม่มี<br>ฉายา นักล่าโจรสลัด โรโรโนอา โซโล<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece259-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "นามิ",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "นามิ (NAMI)<br>ค่าหัว 16,000,000 เบรี<br>ต้นหนประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ไม่มี<br>ฉายา แมวขโมย<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece257-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "อูซป",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "อุซป (Usopp)<br>ค่าหัว 30,000,000 เบรี<br>พลปืนประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ไม่มี<br>ฉายา จ้าวแห่งการซุ่มยิง<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7c706b"
+            }
+          },
+          "_anchor": "features1-e",
+          "_params": {
+            "columnsColor": "#7c706b",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece261-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "ซันจิ",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ซันจิ (Sanji)<br>ค่าหัว 77,000,000 เบรี<br>พ่อครัวประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ไม่มี<br>ฉายา ขาดำซันจิ<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece258-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "ช็อปเปอร์",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "โทนี่ โทนี่ ช็อปเปอร์ (Tony Tony Chopper)<br>ค่าหัว 50 เบรี<br>หมอประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ผล ฮิโตะ ฮิโตะ สายโซออน ผลมนุษย์ ทำให้สัตว์เป็นมนุษย์<br>ฉายา เรนเดียร์จมูกน้ำเงิน<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece262-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "โรบิน",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "นิโค โรบิน (Nico Robin)<br>ค่าหัว 80,000,000 เบรี<br>นักโบราณคดีประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ผล ฮานะ ฮานะ ผลดอกไม้ งอกหรือแตกส่วนต่างๆของร่างกายได้เหมือนดอกไม้<br>ฉายา เทพวิบัติ<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/onepiece260-600x849.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "แฟรงกี้",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "แฟรงกี้ (Franky)<br>ค่าหัว 44,000,000 เบรี<br>ต้นกลประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ไม่มี<br>ฉายา ไซบอร์คไร้เทียมทานแฟรงกี้<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brook-bounty-one-piece-600x851.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "บลู๊ค",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "ฮัมมิ่ง บลู๊ค (Hamming Brook)<br>ค่าหัว 33,000,000 เบรี<br>นักดนตรีประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ผล โยมิ โยมิ ผล คืนชีพ เมื่อตายวิญญาณจะกลับสู่ร่างของตน<br>ฉายา สุภาพบุรุษ บลู๊ค<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7c706b"
+            }
+          },
+          "_anchor": "features1-h",
+          "_params": {
+            "columnsColor": "#7c706b",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-bartholomew-kuma-600x479.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "บาโธโลมิว คุมะ",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ฉายา : คุมะ จอมป่าเถื่อน (The Tyrant)/ PX-0<br>ค่าหัว : 296,000,000 เบรี<br>เผ่าพันธุ์ : มนุษย์ดัดแปลง (Kuma’s cybernetic) <br>ที่อยู่ปัจจุบัน : กองทัพเรือ / อดีต : กองกำลังคณะปฏิวัติ<br>อาวุธ : ร่างกายไซบอร์กติดอาวุธ<br>สัญลักษณ์ประจำตัว : หมี<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ยังเป็นอยู่<br>ผลไม้ปีศาจ : ผลนิคิว นิคิว (Nikyu Nikyu) ผลอุ้งเท้า<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-boa-hancock-600x482.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "โบอา แฮนค็อก",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "ฉายา : องค์หญิงงู (เฮบิฮิเมะ) (Snake Princess) / จักรพรรดินีโจรสลัด (Pirate Empress)<br>ค่าหัว : 80,000,000 เบรี<br>เผ่าพันธุ์ : มนุษย์ / ชนเผ่าคุจา<br>ถิ่นกำเนิด : เกราะอเมซอนลิลี่, เกาะบนทะเลคาล์มเบลท์<br>ที่อยู่ปัจจุบัน : เกราะอเมซอนลิลี่, เกาะบนทะเลคาล์มเบลท์<br>กลุ่มโจรสลัด : กลุ่มโจรสลัดคุจา<br>ตำแหน่ง : กัปตันโจรสลัดคุจา / จักรพรรดินีแห่งเกาะอเมซอนลิลี่ (เกาะหญิงล้วน)<br>อาวุธ : งูพิษซาลอม (Salome) ที่ร้ายกาจที่สุดในโลกแม้แต่จ้าวแห่งท้องทะเลหากถูกกัดก็ต้องตาย<br>สัญลักษณ์ประจำตัว : งู<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ยังเป็นอยู่<br>ผลไม้ปีศาจ : ผลเมโร เมโร (Mero Mero) ผลหลงใหล<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-juraquille-mihawk-600x481.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "จูลาคีล มิฮอว์ค",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "ฉายา : ตาเหยี่ยวมิฮอว์ค / นักดาบอันดับหนึ่งของโลก<br>ค่าหัว : 600,000,000 เบรี<br>เผ่าพันธุ์ : มนุษย์<br>ที่อยู่ปัจจุบัน : อาณาจักรร้าง คุรากานะ<br>เรือ : คอฟฟิน (Coffin)<br>อาวุธ : ดาบโคคุโตะ โยรุ (The Black Blade Night) ซึ่งเป็นหนึ่งใน 12 สุดยอดแห่งดาบ<br>สัญลักษณ์ประจำตัว : เหยี่ยว<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ยังเป็นอยู่<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-buggy-600x481.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "บากี้",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "ฉายา : ตัวตลกบากี้ / ตัวตลกพันเหรียญบากี้ / ตัวตลกดวงดาวบากี้<br>ค่าหัว : 15,000,000 เบรี<br>เผ่าพันธุ์ : มนุษย์<br>ถิ่นกำเนิด : อีสต์บลู<br>ที่อยู่ปัจจุบัน : กองทัพเรือ<br>กลุ่มโจรสลัด : กลุ่มโจรสลัดบากี้<br>ตำแหน่ง : กัปตันกลุ่มโจรสลัดบากี้ / ประธานบริษัทบากี้เดลิเวอรี่<br>อาวุธ : มีดสั้นและระเบิด (Buggy Balls)<br>สัญลักษณ์ประจำตัว : ตัวตลก<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ยังเป็นอยู่<br>ผลไม้ปีศาจ : ผลบาระ บาระ (Bara Bara) ผลแยกส่วน<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7c706b"
+            }
+          },
+          "_anchor": "features1-i",
+          "_params": {
+            "columnsColor": "#7c706b",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-trafalgar-d-600x480.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "ทราฟลาการ์ ดี วอเตอร์ ลอว์",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ฉายา : หมอศัลยกรรมแห่งความตาย (Surgeon of Death) / โคราซอนที่ 3<br>ค่าหัว : 440,000,000 เบรี<br>เผ่าพันธุ์ : มนุษย์<br>ถิ่นกำเนิด : นอร์ธบูล<br>ที่อยู่ปัจจุบัน : เกาะโซ (ZOU) / อดีต : เมืองเฟรแวนซ์<br>กลุ่มโจรสลัด : กลุ่มโจรสลัดฮาร์ท<br>ตำแหน่ง : กัปตันกลุ่มโจรสลัดฮาร์ท / อดีต : โคราซอนที่ 3 / พันธมิตรกลุ่มหมวกฟาง<br>สมาชิกกลุ่ม : ปีโป้ (Bepo), จีนบาท (Jeanbart), ซาชิ (Shachi), เพนกวิ้น (Penguin)<br>เรือ : เรือดำน้ำ (ยังไม่ทราบชื่อ)<br>อาวุธ : ดาบยาว คิโคคุ<br>สัญลักษณ์ประจำตัว : เสือดาว<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ถูกปลดแล้ว<br>ผลไม้ปีศาจ : ผลโอเปะ โอเปะ (Ope Ope) ผลผ่าตัด<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-jinbei-600x481.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "จินเบย์",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "ฉายา : อัศวินแห่งท้องทะเล (Knigth of the Sea)<br>ค่าหัว : อดีต 250,000,000 เบรี / ปัจจุบัน 400,00,000 เบรี<br>เผ่าพันธุ์ : มนุษย์เงือกสายพันพันธุ์ฉลามวาฬ<br>ถิ่นกำเนิด : เกาะเงือก<br>ที่อยู่ปัจจุบัน : เกาะเงือก / อดีต : กลุ่มโจรสลัดพระอาทิตย์<br>กลุ่มโจรสลัด : อดีตเสนาธิการกลุ่มโจรสลัดพระอาทิตย์<br>อาวุธ : คาราเต้มนุษย์เงือกและสามารถควมคุมฝูงฉลามวาฬ<br>สัญลักษณ์ประจำตัว : ฉลามวาฬ<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ลาออกแล้ว<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-donquixote-doflamingo-600x481.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "ดองกี้โฮเต้ โดฟลามิงโก้",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "ฉายา : โจ๊กเกอร์ (Joker) / ปิศาจสวรรค์ (เทนยาฉะ) / ดอฟฟี่ (ชื่อเล่น) / มิงโก้ (ลูฟี่เรียก)<br>ค่าหัว : 340,00,000 เบรี<br>เผ่าพันธุ์ : มนุษย์ เผ่ามังกรฟ้า (เทนริวบิโตะ)<br>ถิ่นกำเนิด : แมรี่จัวร์<br>ที่อยู่ปัจจุบัน : อาณาจักรเดรสโรสซ่า (Dressrosa) / อดีต : แมรี่จัวร์<br>กลุ่มโจรสลัด : กัปตันกลุ่มโจรสลัดดองกี้โฮเต้แฟมิลี่<br>สัญลักษณ์ประจำตัว : นกโดฟลามิงโก้<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ถูกปลดแล้ว<br>ผลไม้ปีศาจ : ผลอิโตะ อิโตะ (Ito Ito) ผลเส้นด้าย<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-piece-seven-warlords-marshall-d-600x481.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "มาร์แชล ดี ทีช",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "ฉายา : หนวดดำ (Blackbeard)<br>ค่าหัว : อดีต 0 เบรี / ปัจจุบัน : ยังไม่ปรากฎ<br>เผ่าพันธุ์ : มนุษย์<br>ที่อยู่ปัจจุบัน : โลกใหม่ (สถานที่ไม่แน่ชัด)<br>กลุ่มโจรสลัด : กลุ่มโจรสลัดหนวดำ<br>เรือ : เรือแบ็คเบี้ยด ไพเรท ราฟท์ ( Blackbeard Pirates raft) <br>สัญลักษณ์ประจำตัว : ค้างคาว (มาร์แชล เป็นชื่อสายพันธ์หนึ่งของค้างคาว)<br>สถานะตำแหน่งเจ็ดเทพโจรสลัด : ลาออกแล้ว / ปัจจุบันดำรงตำแหน่ง 1 ใน 4 จักรพรรดิ<br>ผลไม้ปีศาจ : ผลยามิ ยามิ (Yami Yami) ผลความมืด<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brook-bounty-one-piece-600x851.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "ฮัมมิ่ง บลู๊ค (Hamming Brook)<br>ค่าหัว 33,000,000 เบรี<br>นักดนตรีประจำกลุ่มโจรสลัดหมวกฟาง<br>ผลปิศาจ ผล โยมิ โยมิ ผล คืนชีพ เมื่อตายวิญญาณจะกลับสู่ร่างของตน<br>ฉายา สุภาพบุรุษ บลู๊ค<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7c706b"
+            }
+          },
+          "_anchor": "features1-l",
+          "_params": {
+            "columnsColor": "#7c706b",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/e0b980e0b8ade0b987e0b894e0b8a7e0b8b2e0b8a3e0b98ce0b894-e0b899e0b8b4e0b8a7e0b980e0b881e0b895-600x910.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "เอ็ดวาร์ด นิวเกต",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ค่าหัว 1,200,000,000 เบรี<br>กัปตันกลุ่มโจรสลัดหนวดขาว<br>ผลปิศาจ ผล กุระ กุระ สายพารามิเซีย ผลสั่นสะเทือน ใช้พลังส่งคลื่นความสั่นสะเทือนในระดับสูง(อาฟเตอร์ช็อก)<br>ฉายา หนวดขาว<br>ปัจจุบันแทนที่ด้วย หนวดดำ<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/e0b981e0b88ae0b887e0b884e0b8b9e0b8aa-600x910.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "แชงคูส",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "ค่าหัว 700,000,000 เบรี<br>1 ใน 4 จักรพรรดิ<br>กัปตันกลุ่มโจรสลัด ผมแดง<br>ผลปิศาจ ไม่มี<br>ความสามารถ ใช้ฮาคิราชันย์<br>ฉายา แชงคูส ผมแดง<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/e0b88ae0b8b2e0b8a5e0b8ade0b8a3e0b98ce0b897-e0b8abe0b8a5e0b8b4e0b899e0b8abe0b8a5e0b8b4e0b899-600x910.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "ชาลอร์ท หลินหลิน&nbsp;",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "ค่าหัว 900,000,000 เบรี<br>1 ใน 4 จักรพรรดิ<br>กัปตันกลุ่มโจรสลัดบิ๊กมัม<br>ผลปิศาจ ยังไม่มีการเปิดเผย<br>ฉายา บิ๊กมัม<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/e0b8abe0b899e0b8a7e0b894e0b894e0b8b3-600x910.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "มาร์แชล ดี ทีช",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "ค่าหัว ปัจจุบัน ยังไม่มีการเปิดเผย<br>กัปตันกลุ่มโจรสลัดหนวดดำ<br>ผลปิศาจ 2 ชนิดในร่างเดียว<br>มือขวา ผล ยามิ ยามิ สายโรเกีย ผล ความมืด มีพลังในการดูดกลืนทุกสิ่งรวมถึงทำให้พลังของผลปีศาจอื่นสิ้นสภาพกลายเป็นมนุษย์ปกติ<br>มือซ้าย ผล กูระ กูระ สายพารามิเซีย ผล สั่นสะเทือน สามารถสร้างครื่นแผ่นดินไหวที่สามารถจมเกาะได้ในพริบตา ได้มาจากหนวดขาว<br>ฉายา ทีช หนวดดำ(Blackbeard)<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-r",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/2afffab3487192cb723a566084a2c068-2000x3000.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "ภูมิศาสตร์",
+          "text": "<span style=\"font-style: normal;\">แกรนด์ไลน์<br>เป็น เส้นกระแสน้ำในมหาสมุทรไหลจากทิศตะวันออกไปตะวันตกรอบโลกและตั้งฉากกับเส้นกระแสน้ำเรดไลน์ โดยแกรนด์ไลน์เปรียบเสมือน เส้นศูนย์สูตร และเรดไลน์เป็น เส้นไพรม์เมริเดียน แบ่งทะเลออกเป็น 4 ส่วน คือ นอร์ทบลู อีสท์บลู เวสท์บลู และเซาท์บลู โดยแกรนด์ไลน์เป็นสถานที่อันตรายที่สุดในโลกของวันพีซ มีฉายาว่าสุสานโจรสลัด นอกจากนี้ ครึ่งหลังของแกรนด์ไลน์ยังเป็นดินแดนที่เรียกว่า \"โลกใหม่ (นิวเวิลด์)\"</span><br><span style=\"font-style: normal;\"><br>พาราไดส์ หรือ สวรรค์ : เป็นทะเลครึ่งแรกของแกรนด์ไลน์ เริ่มต้นจากรีเวิร์สเมาน์เท็นไปจนถึงเกาะมนุษย์เงือก โดยเป็นทะเลที่มีสภาพอากาศที่แปรปรวน โดยเหล่าโจรสลัดนับไม่ถ้วนจากทะเลทั้ง 4 กับที่สวรรค์ จะเดินเรือเป็นุดเริ่มต้น ของการผจญภัย<br>โลกใหม่ : ครึ่งหลังของแกรนไลด์ เป็นทะเลสุดท้ายที่อันตรายที่สุด สภาพอากาศรุนแรงมากกว่าทะเลครึ่งแรก กับเป็นทะเลที่อำนาจของรัฐบาลโลกเข้าไปไม่ถึง โดยส่วนใหญ่ถูกปกครอง 4 จักรพรรดิ<br><br>ทะเลสีฟ้า<br>คือทะเลในโลกวันพีซ ซึ่งเป็นทะเลใหญ่ของโลกที่มีด้วยกัน 4 เส้น<br>-นอร์ทบลู: ทะเลที่อยู่ทางตะวันตกเฉียงเหนือของเรดไลน์ ทะเลทั้งสี่ฝั่งตรงกันข้ามของเรดไลน์ คือ อีสท์บลู ทะเลทั้งสี่ด้านล่าง คือ -เวสท์บลู เป็นทะเลที่มีความเจริญรุ่งเรืองทางเศรษฐกิจกับวิทยาการทางเทคโนโลยีทันสมัยมากที่สุดในทะเลทั้ง 4 และในอดีตเคยถูกปกครองโดย ตระกูลวินสโม็ค<br>-อีสท์บลู: ทะเลที่อยู่ทางตะวันออกเฉียงเหนือของเรดไลน์ ทะเลทั้งสี่ฝั่งตรงข้ามของเรดไลน์ คือ นอร์ทบลู ทะเลทั้งสี่ด้านล่าง คือ เซาธ์บลู เป็นทะเลที่อ่อนแอที่สุดในทะเลทั้ง 4 ที่บ้านนอกและสงบสุขที่สุด<br>-เวสท์บลู: ทะเลที่อยู่ทางตะวันตกเฉียงใต้ของเรดไลน์ ทะเลทั้งสี่ฝั่งตรงข้ามของเรดไลน์ คือ เซาธ์บลู ทะเลทั้งสี่ด้านบน คือ นอร์ทบลู เป็นทะลที่ป่าเถื่อนมากที่สุดในทะเลทั้ง 4 เพราะเป็นแหล่งของมาเฟีย<br>-เซาธ์บลู: ทะเลที่อยู่ทางตะวันออกเฉียงใต้ของเรดไลน์ ทะเลทั้งสี่ฝั่งตรงข้ามของเรดไลน์ คือ เวสท์บลู ทะเลทั้งสี่ด้านบน คือ อีสท์บลู เป็นทะเลที่มีความอุดมสมบูรณ์ทางธรรมชาติ กับทางเรื่องเอาพืชสมุนไพรมาเป็นยารักษากับอาหารมากที่สุดในทะเลทั้ง 4<br></span><br><span style=\"font-style: normal;\">เรดไลน์ <br>เป็นชื่อของทวีป มีลักษณะตั้งฉากกับเส้นศูนย์สูตร เป็นวงแหวนล้อมรอบโลกในเรื่องวันพีซไว้ โดยความสูงของเรดไลน์นั้นสูงถึงระดับก้อนเมฆได้</span><br><span style=\"font-style: normal;\"><br>คามเบลท์ <br>ทะเลสองสายที่ขนาบข้างไปกับแกรนไลน์ทั้ง 2 ด้าน เป็นรังของฝูงจ้าวทะเลยักษ์อาศัยอยู่มากมายยิ่งนักและไม่มีลมพัดผ่าน จึงยากที่จะใช้เป็นเส้นทางสัญจร</span><br><span style=\"font-style: normal;\"><br>รีเวิร์สเมาน์เท็น<br>เป็นปากช่องทางเข้าสู่ พาราไดส์ สำหรับผู้ที่เดินทางมาจาก ทะเลทั้ง 4</span><br><span style=\"font-style: normal;\"><br>ออลบลู <br>เป็นทะเลลึกลับในตำนานที่อยู่ที่ไหนซักแห่งบนโลกที่เป็นทะเลที่มีปลาทุกเผ่าพันธุ์อาศัยอยู่ สถานที่ของจุดศูนย์รวมของทะเลทั้ง 4 สาย เป็นความฝันของเหล่าเชฟประจำเรือของทั่วโลกที่ต้องการค้นหาออลบลูให้พบ</span><br><span style=\"font-style: normal;\"><br>ทะเลสีขาว <br>ทะเลเมฆที่อยู่บนทะเลสีฟ้า<br><br>เกาะเมฆ <br>คือเมฆที่จับตัวเป็นพื้นดินบนฟ้าซึ่งแตกต่างจากทะเลเมฆคือพื้นดินบนฟ้า</span><br><span style=\"font-style: normal;\"><br>วาซ <br>ที่อยู่บนโลกคือดิน แต่บนท้องฟ้าจะเรียกว่าวาซเพราะว่าบนท้องฟ้าเป็นของมีค่ามากกว่าไดอัล เพราะว่าบนท้องฟ้าไม่มีดินอยู่เลยจึงไม่เหมาะกับการปลูกพืช</span><br><span style=\"font-style: normal;\"><br>ภัยพิบัติทางทะเล<br>ในแกรนด์ไลน์จะมีภัยตามธรรมเป็นเรื่องปกติ<br>อควอ ลากูนา:คลื่นยักษ์ที่ซัดเข้ามาที่เกาะอย่างรุนแรง ของวอเตอร์ เซเว่น โดยจะเกิดขึ้นเพียงปีละครั้ง ซึ่งรุนแรงขนาดที่เป็นไปได้ว่าคลื่นพัดซัดเข้ามาจมได้เกือบครึ่งเกาะ ไปถึงทั้งเกาะอย่างสบาย<br>น็อคอัพสตรีม: กระแสน้ำที่พุ่งขึ้นสามารถพาไปเกาะแห่งท้องฟ้าได้ เกิดจากการที่ก้นทะเลมีโพรงขนาดใหญ่ แล้วน้ำทะเลที่อุณหภูมิต่ำไหลลงมาที่โพรง ก่อให้เกิดแรงดันมหาศาลจากความร้อนใต้ผืนโลก เลยเกิดกระแสน้ำพุ่งขึ้น จุดที่เกิดขึ้นจะแตกต่างกันไป โดยการเกิดเหตุการณ์นี้เกิดเพียง 5 ครั้งต่อเดือน</span><br><span style=\"font-style: normal;\"><br>ฟลอเรี่ยน ไทรแองเกิ้ล <br>ทะเลแห่งปริศนาลึกลับและความมืด ปกคลุมด้วยหมอกหนาทั้งปีทำให้เรือที่หลงเข้ามาหลงทิศทางไม่สามารถออกไปไม่ได้ บ้างก็อดอยากจนตาย ถึงจะมืดแค่ไหน ตอนกลางวันมีแสงสาดส่องเข้าได้แต่นิดหน่อย โดยมีตำนานนี้เกิดขึ้นมาก่อนที่ เก็คโค โมเรีย อดีต 7 เทพโจรสลัดใช้เป็นฐานสร้างกองทัพ ซอมบี้ โดยในทะเลแถบนั้นมีสิ่งมีชีวิตบางอย่างอาศัยอยู่ในนั้น โดยดวงตาแดงก่ำมีขนาดตัวใหญ่กว่าเก่าทั้งเกาะอยู่ สิ่งงมีชีวิตนั้นมีรังอยู่ในทะเลแถบนั้น คอยทำให้เรือหายไปเพื่อความสนุกสนาน</span><br><span style=\"font-style: normal;\"><br>ท็อตโตแลนด์ <br>เป็นดินแดนในอาณาเขตของบิ๊กมัม โดยเป็นดินแดนที่คนต่างเผ่าพันธุ์มาอาศัยอยู่ร่วมกันอย่างสงบสุข เรียกได้ว่าเป็นยูโธเปีย แต่ไม่มีอยู่เผ่าหนึ่งทั้งที่ควรเด่นที่สุดคือเผ่าคนยักษ์ รอบเกาะโฮลเค้กที่เป็นเกาะหลักมีอีก 34 เกาะอยู่รอบๆ แต่ละเกาะถูกปกครองด้วยอธิการบดี โดยแต่ละคนมีมือระดับโจรสลัดค่าหัวเกินร้อยล้าน ซึ่งท็อตโตแลนด์นั้นทุก 6 เดือนคนบนดินแดนจะต้องจ่ายค่าอยู่อาศัยคือ อายุขัย 2 เดือน เป็นการใช้ชีวิตบนดินแดน ไม่งั้นก็ต้องออกจากเกาะไป</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x2000.png",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "โจรสลัด",
+          "text": "<span style=\"font-style: normal;\">คือคนที่ออกทะเลไล่ปล้นสดมภ์จากคนบริสุทธิ์ นักล่าค่าหัว โจรสลัด ทหารเรือ รัฐบาลโลก ทั้งบนบก กับบนท้องทะเล เป็นต้น โดยออกเรือไปทั่วโดยวัตถุประสงค์ของแต่ละคนนั้นแตกต่างกันไป โดยโจรสลัดเป็นพวกนอกกฎหมายไม่มีสิทธิเรียกร้องขอความเป็นธรรมจากทหารเรือหรือรัฐบาลโลก ในกรณีที่โจรสลัดล่าค่าหัวโจรสลัดกันเองนั้นไม่สามารถขอเงินรางวัลจากการส่งตัวโจรสลัดที่มีค่าหัวให้ทหารเรือได้ แต่จะได้ชื่อเสียงกับความอันตรายมากขึ้นไปแทน แต่ถ้าโจรสลัดเลิกเป็นโจรสลัดนั้นต้องปกปิดฐานะเอาไว้ เพื่อไม่ให้ถูกกองทัพเรือกับรัฐบาลโลกตามจับ ถ้าถูกจับก็จะถูกส่งไปใช้แรงงานหรือคุมขังกับทรมานชดใช้ความผิด ซึ่งถ้าก่อคดีร้ายแรงจะถูกขังเหมือนกันพอหมดโทษจะถูกปล่อยตัวกับพ้นผิดทันที แต่ก็มีพวกที่ต้องโทษประหาร คือรอการประหารแต่ส่วนใหญ่จะถูกขังลืมในคุกจนตายก็มีมาก</span><br><span style=\"font-style: normal;\"><br>1) โจรสลัดในสังกัด หรือ กองเรือโจรสลัด หรือ กลุ่มโจรสลัดในอาณัติ : คือกลุ่มโจรสลัดที่อยู่ในสังกัดของกลุ่มโจรสลัดกลุ่มหนึ่งเป็นเหมือนเครือองค์กร ที่มีโจรสลัดใหญ่เป็นผู้นำกับมีสังกัดย่อยจำนวนมากเป็นกองเรือ</span><br><span style=\"font-style: normal;\"><br>2) พันธมิตรโจรสลัด : คือการที่กลุ่มโจรสลัดตั้งแต่ 2 กลุ่มขึ้นไปทำข้อตกลงร่วมมือกัน โดยมีความเท่าเทียมเท่ากัน ในการสร้างอำนาจในการแบ่งผลประโยชน์ร่วมกัน ซึ่งมีความเป็นไปได้ว่าจะหักหลังกันทีหลัง โดยการร่วมมือเพื่อผลประโยชน์ของกันและกัน<br></span><br><span style=\"font-style: normal;\">3) ซูเปอร์โนวา : หรือซูเปอร์รุกกี้ หมายถึง โจรสลัดที่สร้างชื่อเสียงมามาก ที่มีค่าหัวเกิน 100 ล้านเบรี ก่อนออกเดินทางเข้าไปในโลกใหม่<br></span><br><span style=\"font-style: normal;\">4) โจรสลัดจากยุคสมัยเลวร้ายที่สุด : (最悪の世代, Saiaku no Sedai ภาษาอังกฤษ: The Worst Generation) หมายถึงโจรสลัด 11 คน ที่มีค่าหัวเกิน 100 ล้านเบรี และได้บังเอิญเดินทางตามเส้นทางต่างๆ มาถึงหมู่เกาะชาบอนดี้ซึ่งเป็นจุดครึ่งทางของแกรนด์ไลน์ในช่วงเวลาพร้อมๆกัน ต่างเกินเหตุการณ์ที่เป็นช่วงก่อนเกิดมหาสงครามระหว่างหนวดขาวกับกองทัพเรือ โดยทั้ง 11 รวมหนวดดำเป็น 12 ต่างก็มีตัวอันตรายที่สุดยิ่งกว่าในโลกใหม่</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-10",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sea-water-1666319-960-2000x1122.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "ราชาโจรสลัด",
+          "text": "<span style=\"font-style: normal;\">คือตำแหน่งของผู้ที่มีความมั่งคั่งชื่อเสียง และอำนาจ ผู้ที่ได้ทุกอย่างในโลกมาครอบครอง กับการมีความเป็นอิสระมากที่สุด เป็นกัปตันโจรสลัดที่เก่งกาจที่สุดในโลก ที่สามารถเดินทางวนรอบแกรนด์ไลน์ ซึ่งปกครองทะเลแห่งสุดท้ายที่ถูกเรียกว่าโลกใหม่ และได้ครอบครองวันพีช สมบัติในตำนานโดยเชื่อว่าซ่อนอยู่ในส่วนที่ลึกสุด ที่อยู่ที่เกาะราฟเทล เกาะที่เป็นเกาะสุดท้ายของโลกใหม่ ซึ่งคนที่ได้ตำแหน่ง ราชาโจรสลัด คือ โกลด์ ดี โรเจอร์</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-13",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3552.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "นักล่าค่าหัว",
+          "text": "<span style=\"font-style: normal;\">คือ อาชีพหนึ่งที่คนที่ไล่ล่าค่าหัวของโจรสลัดหรืออาชญากรที่มีค่าหัว โดยส่งตัวโจรสลัดที่มีค่าหัวหลังจากส่งตัวไปให้ทหารเรือหรือรัฐบาลโลก แล้วจะได้รับเงินค่าหัวให้เป็นรางวัล ตามจำนวนค่าหัว โดยอาชีพล่าค่าหัวนั้นเป็นอาชีพที่มีที่นิยมสำหรับเหล่าคนที่เกลียดโจรสลัดโดยเอาโจรสลัดไปแลกเปลี่ยนเป็นเงินกับทหารเรือเพื่อทำมาหากิน แต่ในกรณีคนที่มีค่าหัวนั้นไม่สามารถเรียกร้องขอเงินค่าหัวจากการปราบคนมีค่าหัวได้ แต่จะได้ชื่อเสียงไปแทน</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-14",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-16",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "รัฐบาลโลก",
+          "text": "<span style=\"font-style: normal;\">เมื่อราว 800 ที่แล้ว 20 กษัตริย์จาก 20 อาณาจักร รวมตัวกันและจัดตั้งองค์กรทางการเมืองที่ยิ่งใหญ่ที่สุดในโลกขึ้นนามว่า \"รัฐบาลโลก\" องค์กรนั้นได้โค่นล้มมหาอาณาจักรคู่แข่ง และได้กลายเป็นองค์กรที่ยิ่งใหญ่ที่สุดมานับแต่นั้น รัฐบาลโลกมีอาณาจักรที่ยอมอยู่ภายใต้อาณัติกว่า 170 ประเทศ/ดินแดน โดยแต่ละอาณาจักรต่างมีเอกราชและกองทัพเป็นของตนเองที่ปราศจากการแทรกแทรงของรัฐบาลโลก แต่ต้องไม่กระทำการใดๆ ที่ส่งผลเสียต่อความมั่นคงของรัฐบาลโลก แต่ถ้าที่ไหนมีความเจริญรุ่งเรื่องทางธุรกิจรัฐบาลโลกจะมาเข้าร่วมเพื่อขอส่วนแบ่งในผลประโยชน์ แต่เมื่อเกิดผลร้ายจะทำการทรยศทิ้งกับปล่อยข่าวลวงเพื่อไม่ให้เกิดผลกระทบต่อรัฐบาลโลก เป็นองค์กรที่มีความเป็นเผด็จการที่อ้างเพื่อความยุติธรรมเพื่อบังหน้า กับเห็นผลประโยชน์เข้าตัวเป็นหลักเท่านั้น โดยพวกเจ้าหน้าที่นั้นจะเป็นพวกสายลับคอยสืบเรื่องต่างๆ โดยพวกเจ้าหน้าที่นั้นเป็นเพียงแค่รับคำสั่งโดยไม่รู้รายละเอียดกับเบื้องหลัง</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-17",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-19",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "เผ่ามังกรฟ้า",
+          "text": "<span style=\"font-style: normal;\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก(เท็นริวบิโตะ): 19 ราชวงศ์ ผู้ก่อตั้งรัฐบาลโลก ยอมละทิ้งบัลลังก์ในอาณาจักรของตน และนำพวกราชวงศ์ในเครือญาติทั้งหมดหนีออกจากประเทศตน และย้ายเข้าในพำนักยัง \"แมรี่จัวร์\" ซึ่งคือเป็นจุดศูนย์กลางของโลก และลูกหลานของ 19 กษัตริย์เหล่านี้ถูกเรียกว่า \"ชาวมังกรฟ้า\" เป็นกลุ่มบุคคลที่มีอิทธิพลสูงในรัฐบาลโลก และได้รับการคุ้มครองจากรัฐบาบโลก สามารถสั่งเรียก ไซเฟอร์โพลเอจิส 0 กับพลเรือเอก ให้เคลื่อนไหวได้ แล้วถ้ามีใครต่อต้านชาวมังกรฟ้า พวกพลเรือเอกจะโผล่มาที่นั่นเพื่อจัดการ ชาวมังกรฟ้านั้นจะจับพวกสิ่งมีชีวิตต่างๆไปเป็นทาส และสามารถฆ่าคนโดยไม่สนใจว่าเรื่องเล็กน้อยแค่ไหน ลักษณะของชาวมังกรฟ้าคือ จะทำทรงผมที่มีงอยชี้ขึ้นทุกคน และแต่งตั้งเหมือนชุดอวกาศกับมีอะไรครอบหัว เพราะว่ารังเกียจที่จะหายใจร่วมกับมนุษย์บนพื้นโลก แต่จะถอดที่ครอบหัวตอนอยู่บนดินแดนศักดิ์สิทธิ์มารี่โจอา แต่เมื่อ 33 ปีก่อนนั้นผู้นำตระกูลดองกี้โฮเต้ได้พาครอบครัวออกจากการเป็นมังกรฟ้าไปอาศัยที่นอร์ธบลู จนเหลือเพียง 18 ตระกูล</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1a",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "3 ขั้วอำนาจ",
+          "text": "<span style=\"font-style: normal;\">3 ขั้วอำนาจ - คือกองกำลังที่เป็นขั้วอำนาจของโลก โดยมีสมดุลทั้ง 3 ขั้วด้วยกัน ถูกจัดตั้งเป็นสมดุลหลังจากการเสียชีวิตของโรเจอร์ไปหลายปี ถ้าขั้วอำนาจไหนเกิดเสียสมดุลทำให้โลกเกิดความสั่นคลอนได้ ขั้วอำนาจเหล่านี้ได้แก่<br></span><br><span style=\"font-style: normal;\">กองทัพเรือ : เป็นองค์กรขนาดใหญ่ในโลกวันพีซ มีระบบผสมของทหารบกและทหารเรือเข้าด้วยกัน แบบกองเรือยุทธการ และกองบัญชาการนาวิกโยธิน อยู่ในสังกัดเดียวกัน โดยทหารในสังกัดเป็นทั้งทหารเรือที่ต่อสู้ทางน้ำและเป็นนาวิกโยธินต่อสู้ทางบก กองทัพเรือมีฐานทัพอยู่ทั่วโลกและมีศูนย์ใหญ่ปัจจุบันย้ายไปอยู่ที่ในโลกใหม่ โดยกองทัพเรือนี้เป็นองค์กรที่อยู่ภายใต้การกำกับดูแลของรัฐบาลโลกอีกที</span><br><span style=\"font-style: normal;\"><br>7 เทพโจรสลัด : เป็นระบบที่ถูกตั้งขึ้นหลังจากการประหารโรเจอร์ โจรสลัดเพิ่มจำนวนมากขึ้นเรื่อย รัฐบาลโลกเห็นว่าจะเป็นปัญหาขึ้นได้ จึงสร้างระบบนี้ ให้กัปตันโจรสลัดถึง 7 คน ถูกรัฐบาลโลกทาบทามให้มาทำงานปราบปรามโจรสลัด โดยการส่งจดหมายผ่านค้างคาวไปให้โจรสลัด หรือโจรสลัดสร้างผลงานมาต่อรองเอง จนถูกพิจารณากับยอมรับ โดยทั้ง 7 คน จะได้รับสิทธิในยกเลิกค่าหัว และสิทธิในการปล้นสดมภ์จากโจรสลัดอื่นแบ่งผลกำไรแก่รัฐบาลโลก กับได้รับใบอนุญาตในการเดินเรืออิสระไปทั่ว ปกครองเกาะโดยไม่มีการควบคุมของกองทัพเรือกับรัฐบาลโลกได้เพียง 1 เกาะ แต่ในกรณีที่ออกจากเกาะเดิมแล้วไปตั้งอาณาเขตที่เกาะใหม่ เกาะเดิมนั้นจะหมดสิทธิการดูแล กับมีสิทธิครอบครองหินไคโรจำนวนหนึ่ง และสามารถสั่งกองทัพเรือตามหน้าที่ในเกาะนั้น แต่ไม่ได้รับสิทธิในการกระทำการชั่วร้ายต่อพลเมืองของรัฐบาลโลก<br>ซึ่งช่วงแรกการจะเกณฑ์มาครบนั้นนั้นใช้เวลาเป็นหลายสิบปี</span>&nbsp;<span style=\"font-style: normal;\">7 เทพโจรสลัดรุ่นแรกได้แก่ มิฮอว์ค(สร้างชื่อในฐานะนักดาบอันดับ 1 ของโลก) , ครอกโคไดล์(สร้างชื่อตั้งแต่สมัยหนุ่มช่วงอายุ 20 ต้น กับมีค่าหัวสูงกับโค่นโจรสลัดไปหลายกลุ่ม) , โดฟลามิงโก้(ขโมยเรือขนเงินเผ่ามังกรฟ้ากับเอาไปต่อรองกับรัฐบาลโลก) , คุมะ(ถูกรัฐบาลโลกกุมความลับจึงต้องยอม) , โมเรีย(เคยสู้กับไคโดได้สูสีกับรอดชีวิตมาได้ ในสมัยที่ไคโดยังไม่ได้เป็น 4 จักรพรรดิ) , จินเบ(เพื่อสานสัมพันธ์ระหว่างเผ่าพันธุ์) , แฮนค๊อก(จากการที่ออกเรือครั้งแรกมีค่าหัวถึง 80 ล้าน กับกลุ่มโจรสลัดคุจาเคยสร้างชื่อมาในอดีตมาหลายรุ่น)</span><br><span style=\"font-style: normal;\"><br>4 จักรพรรดิ : กัปตันโจรสลัดผู้ยิ่งใหญ่ที่สุดในเรื่องวันพีช ทั้ง 4 คน ปกครองโลกใหม่ เป็น 1 ในขั้วอำนาจของโลก ทั้ง 4 คน ต่างเป็นเอกเทศต่อกัน อาจให้ความร่วมมือกันในบางเรื่องตามแต่ตกลง แต่ละคนมีอำนาจกับกองทัพเทียบเท่าของกองทัพเรือ กับมีค่าหัวเกินพันล้าน สามารถใช้ฮาคิ 3 รูปแบบได้อย่างชำนาญ<br>4 จักรพรรดิ กลุ่มแรกคือ หนวดขาว ผมแดง ไคโด บิ๊กมัม หนวดขาวเสียชีวิตในสงคราม 1 ปีผ่านไป หนวดดำ กับมัลโก้ที่นำกลุ่มหนวดขาวมาล้างแค้นเกิดสงครามกัน หนวดดำชนะจนได้เป็น 4 จักรพรรดิคนใหม่</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "กองทัพปฏิวัติ",
+          "text": "<span style=\"font-style: normal;\">กลุ่มกองกำลังปฏิวัติต่อต้านและโค่นล้มรัฐบาลโลก ที่ถูกจัดตั้งโดยมั้งกี้ ดี ดราก้อน โดยสมาชิกส่วนใหญ่นั้นเป็นเหล่าประชากรจากประเทศต่างๆ ทั่วโลกที่ถูกอำนาจของรัฐบาลโลกกดขี่ข่มเหง โดยมารวมตัวกันเป็นกองทัพพลเมือง โดยการเข้าทำลายอาณาจักรต่างๆ ที่ภักดีต่อรัฐบาลโลก นอกจากนี้กองกำลังนี้ได้ปลดปล่อยเหล่าผู้คนที่ถูกรัฐบาลโลกทอดทิ้งรวมไปถึงเชลยกับทาสของรัฐบาลโลก โดยจะพาพวกเด็กกำพร้ากับคนยากจนมาเข้าร่วมเพื่อฝึกฝนเพื่อสร้างกองทัพโดยส่วนใหญ่</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1g",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "โลกใต้ดิน",
+          "text": "<span style=\"font-style: normal;\">คือระบบการทำธุรกิจของผู้มีอำนาจเบื้องหลัง โจรสลัดกับองค์กรชั่วร้าย รวมถึงประเทศที่ทำสงคราม ปกปิดไม่ให้รัฐบาลโลกกับกองทัพเรือ หรือโลกเบื้องบนล่วงรู้ โดยพวกที่ยิ่งใหญ่ล้วนอยู่ที่โลกใหม่ โดยมีองค์กรแผ่ขยายไปทั่วโลก ทำธุรกิจทางการค้าพวกสินค้าผิดกฎหมาย ได้แก่ อาวุธสงคราม ทาส ยาเสพติด รวมถึงผลปีศาจแท้และเทียม โดยการปกครองโลกใต้ดินนั้น โดฟลามิงโก้ที่เป็น 1 ใน 7 เทพโจรสลัดเป็นผู้ควบคุมโลกใต้ดิน ขนาด 4 จักรพรรดิยังเป็นเพียงแค่ลูกค้าของธุรกิจ พอโดฟลามิงโก้ถูกจับกุมเพราะลูฟี่กับลอว์ โลกใต้ดินที่เป็นพวกลูกค้าส่วนใหญ่ต่างหาซื้อสินค้าไม่ได้ก็เกิดความปั่นป่วนที่ไร้ศูนย์กลาง</span><br><span style=\"font-style: normal;\"><br>1) จักรพรรดิในโลกใต้ดิน : เป็นผู้มีอำนาจมากที่สุดในโลกใต้ดิน โดยแต่ละคนเป็นผู้นำจากแต่ละองค์กรในแต่ละอาชีพที่มีชื่อเสียงของโลกเบื้องบน แต่เบื้องหลังเป็นผู้มีอิทธิพลในโลกใต้ดินเป็นอย่างมาก</span><br><span style=\"font-style: normal;\"><br>2) องค์กรใต้ดิน : องค์กรชั่วร้ายที่ทำธรุกิจในโลกใต้ดิน ซึ่งไม่ใช่ กลุ่มโจรสลัด เท่านั้น</span><br><span style=\"font-style: normal;\"><br>3)มาเฟียใหญ่ปกครองโลกใต้ดินของเวสต์บลู : เป็น มาเฟียใหญ่ที่ปกครองโลกใต้ดินของเวสต์บลู มีทั้งหมด 5 องค์กร จาก มังงะ ตอนที่ 858 โดย 1 ในนั้นมีกลุ่มของเบจจ์อยู่ด้วย</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1j",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "หน่วยเงินของโลก",
+          "text": "<span style=\"font-style: normal;\">เบรี: หน่วยสกุลเงินในโลกวันพีช<br>เอ็กซ์โทล: หน่วยเงินบนเกาะแห่งท้องฟ้าในโลกของวันพีซ ถ้าให้ 10000 เอ็กซ์โทร เทียบเป็น 1 เบรี<br>เทโซโรมันนี่: หน่วยสกุลเงินในโลกวันพีช หน่วยสกุลเงินหนึ่งคิดค้นโดย กิล เทโซโร ปรากฏครั้งจาก One Piece The Movie ภาค One Piece Film Gold โดยจำนวนเงินมีมูลค่าถึง 5 แสนล้านเบรี เท่าซื้อได้เกาะหนึ่งมาปกครองได้สบาย</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1m",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1o",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1278.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "ผลไม้ปีศาจ",
+          "text": "<span style=\"font-style: normal;\">มีลักษณะเป็นผลไม้ที่มีลายก้นหอย คือสิ่งที่พระเจ้าเป็นคนสร้างหรือเป็นร่างแปลงของปีศาจแห่งท้องทะเลที่โดนพระเจ้าขับไล่หรือสาปให้มาอยู่ในรูปร่างผลไม้ ผลไม้ที่จะให้พลังพิเศษกับผู้ที่กิน โดยพลังต่างๆ จะเป็นพลังที่แปลกประหลาด ซึ่งผลไม้ปีศาจแต่ละชนิดนั้นจะมีเพียง 1 ผลต่อ 1 ชนิดเท่านั้น ใครที่กินคำแรกเข้าไปก็จะได้พลังทันที จากนั้นถ้าใครไปกินต่อก็จะไม่ได้พลัง แต่ขณะเดียวกันผู้ที่ได้พลังจากผลไม้ปีศาจนั้น เมื่อได้พลังมา จะเปลี่ยนผู้กินไปถึงระดับเซลล์ กับสิ่งที่ต้องแลกกับพลังคือการที่ไม่สามารถว่ายน้ำได้ตลอดชีวิต กับต่อให้ตกทะเลหรือน้ำก็ไม่มีทางลอยขึ้นมาได้มีแต่จมอย่างเดียว กับคนที่ว่ายน้ำเก่งแค่ไหนก็ว่ายน้ำไม่ได้อีกต่อไป แต่โดนฝนตกใส่ หรืออาบน้ำด้วยฝักบัวยังใช้พลังได้กับไม่หมดแรง เพราะผู้ใช้พลังจะใช้พลังไม่ได้คือเมื่อจุ่มตัวลงไปทั้งตัวจะใช้พลังไม่ได้ ในกรณีที่พลังของผลไหนแพ้ทางน้ำ เช่น ผู้ใช้สายไฟกับทรายอาบน้ำหรือโดนฝนจะใช้พลังไม่ได้<br>หากผู้ใช้กินเข้าไปมากกว่า 1 ผล ร่างกายของผู้ใช้จะระเบิดจนเสียชีวิต เพราะร่างกายของคนที่กินผลปีศาจเข้าไปรับภาระของผลแรกได้เท่านั้น ถ้าเกิดกินผลที่ 2 เข้าไป จะทำให้เกิดมีปีศาจในตัวถึง 2 ตัวก็ต่อสู้กันเองโดยร่างกายของผู้ใช้จะรับไม่ไหวจนระเบิดกับเสียชีวิตทันที จึงเป็นความเสี่ยงที่มากเกินกว่าจะรับไหว แต่ในกรณีที่ใครมีโครงสร้างร่างกายผิดปกติจะสามารถรับภาระของผลไม้ปีศาจผลที่ 2 ได้ แต่ก็มีน้อยมากที่จะมีแบบนั้น<br>ถ้าผู้ใช้พลังนั้นตายหรือผลไม้ปีศาจถูกทำลายจะไปเกิดใหม่ที่ไหนสักแห่งบนโลก โดยจะไปเกิดใหม่จากผลไม้ธรรมดาแปรสภาพเป็นผลไม้ปีศาจ ตามกฏใครพบเจอจะเป็นเจ้าของ คนที่เป็นเจ้าของมีสิทธิจะทำอะไรกับผลไม้ปีศาจก็ได้ แต่ในกรณีใครชิงผลไม้ปีศาจจะได้เจ้าของคนใหม่ หรือส่งต่อผ่านมือ มีคนออกเรือทั้งชีวิตเพื่อหาผลไม้ปีศาจแค่ผลเดียว แต่ก็ล้มเหลว เพราะเป็นสิ่งที่หากันยากมาก ผลไม้ปีศาจแค่ผลเดียวเอาไปขาย แค่ผลเดียวมีมูลค่าถึง 100 ล้านเบรี แต่ถ้ารู้ว่าเป็นผลที่มีพลังอะไรก่อนกิน ราคายิ่งสูงขึ้นกว่าเดิม แต่ขึ้นอยู่กับพลัง ถ้าเกิดผลไม้ปีศาจถูกกินแล้วเอาไปขายก็ไม่ได้ราคาอะไรเนื่องจากว่าพลังของผลไม้ปีศาจนั้นไปอยู่ในตัวผู้ใช้ไปแล้ว เป็นแค่ผลไม้รูปร่างประหลาดที่ไม่อร่อย แม้ผลนั้นจะถูกกินไปแล้วคนอื่นไม่ว่าใครมากกินก็ไม่เกิดอะไรขึ้นอีก ยกตัวอย่างเช่น ซาโบเพิ่งกินผลเมระ เมระไป แล้วลูฟี่ที่มีพลังของผลโกมุโกมุอยู่ไปเก็บผลเมระ เมระที่ถูกกินไปแล้วมากินต่อ ลูฟี่ก็ไม่ตายกับระเบิด เพราะพลังปีศาจนั้นสถิตอย่ในตัวซาโบไปแล้ว<br>โดยทุกผลนั้นมีประโยชน์ของมันเอง สิ่งสำคัญคือผู้ใช้นั้นจะใช้พลังยังไง ซึ่งจำนวนของผลปีศาจนั้นมีมากกว่าที่รู้ได้ ซึ่งมีผลที่ไม่สามารถระบุได้ว่าคือผลอะไร อีกมากมายมีทางเดียวที่จะรู้ว่าคือผลอะไรมีแต่กินกับแสดงพลังเท่านั้น โดยเมื่อใครกินนั้นจะเปลี่ยนสภาพของคนที่กินไปถึงระดับเซลล์แต่จะไม่ตกทอดสู่ลูกหลาน แล้วถ้าเอาดีเอนเอไปโคลนนิ่ง พลังจะไม่ถูกถ่ายทอดแต่อย่างใด โดยผลปีศาจแบ่งออกเป็น 3 สายคือ<br><br>โรเกีย - สายพลังธรรมชาติ ผู้ที่กินเข้าไปร่างกายจะสามารถกลายเป็นสสารนั้นๆ และไม่สามารถบุบสลาย เช่นกลายเป็นไฟ หรือกลายเป็นสายฟ้าเป็นผลปีศาจที่ต้องใช้ฮาคิหรือสสารอื่น ถึงจะโจมตีได้โดยแม้เป็นสายโรเกีย เมื่อโดนโจมตีจะทะลุผ่านไปเพราะร่างกายของสายโรเกียจะแปรสภาพเป็นสสารนั้น แต่ก็มีแพ้ทางกัน กับมีสสารที่เข้ากันไม่ได้ก็มีจึงมีแต่ผลออกมาว่าใครใช้พลังได้เก่งกว่ากัน และเป็นสายที่หาได้ยากที่สุด</span><br><span style=\"font-style: normal;\"><br>พารามิเซีย - สายพลังเหนือมนุษย์ เช่น ร่างกายจะแปรสภาพเป็นอะไร แบบยังมีร่างกายหลักอยู่ ไม่ก็ผลิตอะไรออกมาจากร่าง หรือปล่อยพลังออกมาในรูปแบบต่างๆ มีจำนวนมากที่สุด เป็นต้น และเป็นสายที่หาได้ง่ายที่สุด</span><br><span style=\"font-style: normal;\"><br>โซออน - สายสัตว์ เป็นสายที่ว่ากันว่ามีพลังจู่โจมที่แข็งแกร่งที่สุดและพลังนั้นก็จะเพิ่มตามสภาพหรือความแข็งแกร่งของผู้ที่กินผลสายนี้เข้าไป สายโซออนจะทำให้ร่างกายของผู้ที่กินมันสามารถแปลงร่างเป็นสัตว์ได้โดยทั่วไป จะสามารถแปลงร่างได้ 3 รูปแบบคือ มนุษย์(ร่างหลัก) , สัตว์ และ ครึ่งคนครึ่งสัตว์ โดยทำให้ผู้ใช้นิสัยเหมือนสัตว์ด้วย แต่ถ้าเกิดผู้กินเป็นสายพันธุ์เดียวกันกับผลปีศาจผลนั้น เช่น ม้ากินผลอูมะ อูมะเข้าไปจะไม่มีอะไรเปลี่ยนแปลงนอกจากไม่สามารถว่ายน้ำได้เท่านั้น</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qg-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ONE PIECE<br></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ONE PIECE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ตัวละคร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กลุ่มหมวกฟาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7เทพโจรสลัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4จักรพรรดิโจรสลัด</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ภูมิศาสตร์</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">กลุ่มและองค์กร</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรภูเขา </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ราชาโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">นักล่าค่าหัว </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">รัฐบาลโลก </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">เผ่ามังกรฟ้า หรือ ชนชั้นสูงของโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 ขั้วอำนาจ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพเรือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 เทพโจรสลัด </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 จักรพรรดิ </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">กองทัพปฏิวัติ </a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ทาส </a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ทาสชาวมังกรฟ้า </a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">โลกใต้ดิน</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">อื่นๆ</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">หน่วยเงินในโลก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ผลปีศาจ</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018 Manittaya Yoonakron 511-28"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656",
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1s",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x3000.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/16473118-1886153671616536-224531462040922002-n-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Made By",
+          "text": "Manittaya Yoonakron &nbsp;511-28<br>นางสาวมานิตตยา อยู่นคร &nbsp;511-28",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
